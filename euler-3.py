@@ -15,6 +15,6 @@ def prime_factors(number):
 number = 600851475143
 factors = prime_factors(number)
 
-print(f"عوامل اولیه عدد {number}:")
+print(f"Prime factors {number}:")
 for factor in factors:
     print(factor)
